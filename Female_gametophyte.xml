@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><nex:nexml xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:bean="http://mesquiteproject.org/bean#" xmlns:msq="http://mesquiteproject.org#" xmlns:nr="http://mesquiteproject.org/namereference#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generator="org.nexml.model.impl.DocumentImpl" version="0.9">
+  <otus about="#otus1" id="otus1" label="Taxa">
+    <meta content="mesquite.lib.MesquiteProject@6507d98a" datatype="xsd:anySimpleType" id="meta63" property="bean:Project" xsi:type="nex:LiteralMeta"/>
+    <meta content="Default Bush (id 8, version 56)" datatype="xsd:anySimpleType" id="meta62" property="bean:DefaultTree" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta61" property="bean:ResourcePanelIsOpen" xsi:type="nex:LiteralMeta"/>
+    <meta content="4510475547998040334" datatype="xsd:long" id="meta60" property="bean:AssignedIDNumber" xsi:type="nex:LiteralMeta"/>
+    <meta content="Manage TAXA blocks (id# 860)" datatype="xsd:anySimpleType" id="meta59" property="bean:Manager" xsi:type="nex:LiteralMeta"/>
+    <meta content="true" datatype="xsd:boolean" id="meta58" property="bean:Writable" xsi:type="nex:LiteralMeta"/>
+    <meta content="01604cd927c21" datatype="xsd:string" id="meta57" property="bean:UniqueID" xsi:type="nex:LiteralMeta"/>
+    <meta content="13" datatype="xsd:integer" id="meta56" property="bean:NumberOfParts" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta55" property="bean:Dirty" xsi:type="nex:LiteralMeta"/>
+    <meta content="01604cd927c21" datatype="xsd:string" id="meta2" property="msq:taxaUID" xsi:type="nex:LiteralMeta"/>
+    <otu about="#otu3" id="otu3" label="Amborella">
+      <meta content="0" datatype="xsd:integer" id="meta6" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Amborella" datatype="xsd:string" id="meta5" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="0" datatype="xsd:integer" id="meta4" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu7" id="otu7" label="Nymphaea">
+      <meta content="1" datatype="xsd:integer" id="meta10" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Nymphaea" datatype="xsd:string" id="meta9" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="1" datatype="xsd:integer" id="meta8" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu11" id="otu11" label="Nuphar">
+      <meta content="2" datatype="xsd:integer" id="meta14" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Nuphar" datatype="xsd:string" id="meta13" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="2" datatype="xsd:integer" id="meta12" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu15" id="otu15" label="Hydatellaceae">
+      <meta content="3" datatype="xsd:integer" id="meta18" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Hydatellaceae" datatype="xsd:string" id="meta17" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="3" datatype="xsd:integer" id="meta16" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu19" id="otu19" label="Cabomba">
+      <meta content="4" datatype="xsd:integer" id="meta22" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Cabomba" datatype="xsd:string" id="meta21" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="4" datatype="xsd:integer" id="meta20" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu23" id="otu23" label="Austrobaileya">
+      <meta content="5" datatype="xsd:integer" id="meta26" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Austrobaileya" datatype="xsd:string" id="meta25" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="5" datatype="xsd:integer" id="meta24" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu27" id="otu27" label="Trimenia">
+      <meta content="6" datatype="xsd:integer" id="meta30" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Trimenia" datatype="xsd:string" id="meta29" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="6" datatype="xsd:integer" id="meta28" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu31" id="otu31" label="Illicium">
+      <meta content="7" datatype="xsd:integer" id="meta34" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Illicium" datatype="xsd:string" id="meta33" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="7" datatype="xsd:integer" id="meta32" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu35" id="otu35" label="Schisandra">
+      <meta content="8" datatype="xsd:integer" id="meta38" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Schisandra" datatype="xsd:string" id="meta37" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="8" datatype="xsd:integer" id="meta36" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu39" id="otu39" label="Chloranthaceae">
+      <meta content="9" datatype="xsd:integer" id="meta42" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Chloranthaceae" datatype="xsd:string" id="meta41" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="9" datatype="xsd:integer" id="meta40" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu43" id="otu43" label="Magnoliids">
+      <meta content="10" datatype="xsd:integer" id="meta46" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Magnoliids" datatype="xsd:string" id="meta45" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="10" datatype="xsd:integer" id="meta44" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu47" id="otu47" label="Monocots">
+      <meta content="11" datatype="xsd:integer" id="meta50" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Monocots" datatype="xsd:string" id="meta49" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="11" datatype="xsd:integer" id="meta48" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+    <otu about="#otu51" id="otu51" label="Eudicots">
+      <meta content="12" datatype="xsd:integer" id="meta54" property="bean:Index" xsi:type="nex:LiteralMeta"/>
+      <meta content="Eudicots" datatype="xsd:string" id="meta53" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="12" datatype="xsd:integer" id="meta52" property="msq:taxonUID" xsi:type="nex:LiteralMeta"/>
+    </otu>
+  </otus>
+  <characters about="#characters64" id="characters64" otus="otus1" xsi:type="nex:StandardCells">
+    <meta content="." datatype="xsd:char" id="meta96" property="bean:MatchChar" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta95" property="bean:ResourcePanelIsOpen" xsi:type="nex:LiteralMeta"/>
+    <meta content="?" datatype="xsd:char" id="meta94" property="bean:UnassignedSymbol" xsi:type="nex:LiteralMeta"/>
+    <meta content="matrixCategSmall.gif" datatype="xsd:string" id="meta93" property="bean:IconFileName" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta92" property="bean:SuppressSpecssetReading" xsi:type="nex:LiteralMeta"/>
+    <meta content="-" datatype="xsd:char" id="meta91" property="bean:InapplicableSymbol" xsi:type="nex:LiteralMeta"/>
+    <meta content="1" datatype="xsd:integer" id="meta90" property="bean:NumberOfParts" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta89" property="bean:Dirty" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta88" property="bean:CharNumChanging" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta87" property="bean:EditorInhibition" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta86" property="bean:InventUniqueIDs" xsi:type="nex:LiteralMeta"/>
+    <meta content="mesquite.lib.MesquiteProject@6507d98a" datatype="xsd:anySimpleType" id="meta85" property="bean:Project" xsi:type="nex:LiteralMeta"/>
+    <meta content="9067336984974819469" datatype="xsd:long" id="meta84" property="bean:AssignedIDNumber" xsi:type="nex:LiteralMeta"/>
+    <meta content="Character Matrix manager (id# 864)" datatype="xsd:anySimpleType" id="meta83" property="bean:Manager" xsi:type="nex:LiteralMeta"/>
+    <meta content="true" datatype="xsd:boolean" id="meta82" property="bean:Writable" xsi:type="nex:LiteralMeta"/>
+    <meta content="Manage categorical character matrices (id# 865)" datatype="xsd:anySimpleType" id="meta81" property="bean:MatrixManager" xsi:type="nex:LiteralMeta"/>
+    <meta content="Character Matrix" datatype="xsd:string" id="meta80" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+    <format>
+      <states id="states65">
+        <state id="state67" symbol="0"/>
+        <state id="state69" symbol="1"/>
+      </states>
+      <char about="#char66" id="char66" label="Character 1" states="states65">
+        <meta content="false" datatype="xsd:boolean" id="meta97" property="nr:selected" xsi:type="nex:LiteralMeta"/>
+      </char>
+    </format>
+    <matrix>
+      <row id="row68" otu="otu3">
+        <cell char="char66" state="state67"/>
+      </row>
+      <row id="row70" otu="otu7">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row71" otu="otu11">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row72" otu="otu15">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row73" otu="otu19">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row74" otu="otu31">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row75" otu="otu35">
+        <cell char="char66" state="state69"/>
+      </row>
+      <row id="row76" otu="otu39">
+        <cell char="char66" state="state67"/>
+      </row>
+      <row id="row77" otu="otu43">
+        <cell char="char66" state="state67"/>
+      </row>
+      <row id="row78" otu="otu47">
+        <cell char="char66" state="state67"/>
+      </row>
+      <row id="row79" otu="otu51">
+        <cell char="char66" state="state67"/>
+      </row>
+    </matrix>
+  </characters>
+  <trees about="#trees98" id="trees98" label="Imported trees" otus="otus1">
+    <meta content="[0] &#9;&#9;1 Amborella,&#10;[1] &#9;&#9;2 Nymphaea,&#10;[2] &#9;&#9;3 Nuphar,&#10;[3] &#9;&#9;4 Hydatellaceae,&#10;[4] &#9;&#9;5 Cabomba,&#10;[5] &#9;&#9;6 Austrobaileya,&#10;[6] &#9;&#9;7 Trimenia,&#10;[7] &#9;&#9;8 Illicium,&#10;[8] &#9;&#9;9 Schisandra,&#10;[9] &#9;&#9;10 Chloranthaceae,&#10;[10] &#9;&#9;11 Magnoliids,&#10;[11] &#9;&#9;12 Monocots,&#10;[12] &#9;&#9;13 Eudicots" datatype="xsd:string" id="meta165" property="bean:TranslationTable" xsi:type="nex:LiteralMeta"/>
+    <meta content="mesquite.lib.MesquiteProject@6507d98a" datatype="xsd:anySimpleType" id="meta164" property="bean:Project" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta163" property="bean:WriteWeights" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta162" property="bean:ResourcePanelIsOpen" xsi:type="nex:LiteralMeta"/>
+    <meta content="3355157386400747653" datatype="xsd:long" id="meta161" property="bean:AssignedIDNumber" xsi:type="nex:LiteralMeta"/>
+    <meta content="Taxa block (name: Taxa number of taxa: 13 id: 1120)" datatype="xsd:anySimpleType" id="meta160" property="bean:Taxa" xsi:type="nex:LiteralMeta"/>
+    <meta content="Manage TREES blocks (id# 861)" datatype="xsd:anySimpleType" id="meta159" property="bean:Manager" xsi:type="nex:LiteralMeta"/>
+    <meta content="true" datatype="xsd:boolean" id="meta158" property="bean:Writable" xsi:type="nex:LiteralMeta"/>
+    <meta content="treesSmall.gif" datatype="xsd:string" id="meta157" property="bean:IconFileName" xsi:type="nex:LiteralMeta"/>
+    <meta content="Imported trees" datatype="xsd:string" id="meta156" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+    <meta content="1" datatype="xsd:integer" id="meta155" property="bean:NumberOfParts" xsi:type="nex:LiteralMeta"/>
+    <meta content="false" datatype="xsd:boolean" id="meta154" property="bean:Dirty" xsi:type="nex:LiteralMeta"/>
+    <tree about="#tree99" id="tree99" label="Imported tree 0" xsi:type="nex:FloatTree">
+      <meta content="0" datatype="xsd:integer" id="meta153" property="bean:FileIndex" xsi:type="nex:LiteralMeta"/>
+      <meta content="TreeVector: Imported trees [id 1 size 1]" datatype="xsd:anySimpleType" id="meta152" property="bean:TreeVector" xsi:type="nex:LiteralMeta"/>
+      <meta content="false" datatype="xsd:boolean" id="meta151" property="bean:PermitTaxaBlockEnlargement" xsi:type="nex:LiteralMeta"/>
+      <meta content="Imported tree 0" datatype="xsd:string" id="meta150" property="bean:Name" xsi:type="nex:LiteralMeta"/>
+      <meta content="44" datatype="xsd:integer" id="meta149" property="bean:NumberOfParts" xsi:type="nex:LiteralMeta"/>
+      <meta content="true" datatype="xsd:boolean" id="meta148" property="bean:Dirty" xsi:type="nex:LiteralMeta"/>
+      <meta content="0" datatype="xsd:integer" id="meta147" property="bean:AssignedNumber" xsi:type="nex:LiteralMeta"/>
+      <node id="node100" label=""/>
+      <node id="node101" label="Amborella" otu="otu3"/>
+      <node id="node103" label=""/>
+      <node id="node105" label=""/>
+      <node id="node107" label=""/>
+      <node id="node109" label="Nymphaea" otu="otu7"/>
+      <node id="node111" label="Nuphar" otu="otu11"/>
+      <node id="node113" label="Hydatellaceae" otu="otu15"/>
+      <node id="node115" label="Cabomba" otu="otu19"/>
+      <node id="node117" label=""/>
+      <node id="node119" label=""/>
+      <node id="node121" label="Austrobaileya" otu="otu23"/>
+      <node id="node123" label=""/>
+      <node id="node125" label="Trimenia" otu="otu27"/>
+      <node id="node127" label=""/>
+      <node id="node129" label="Illicium" otu="otu31"/>
+      <node id="node131" label="Schisandra" otu="otu35"/>
+      <node id="node133" label=""/>
+      <node id="node135" label=""/>
+      <node id="node137" label="Chloranthaceae" otu="otu39"/>
+      <node id="node139" label="Magnoliids" otu="otu43"/>
+      <node id="node141" label=""/>
+      <node id="node143" label="Monocots" otu="otu47"/>
+      <node id="node145" label="Eudicots" otu="otu51"/>
+      <edge id="edge102" length="0.09885291563602279" source="node100" target="node101"/>
+      <edge id="edge104" length="0.007287255035691972" source="node100" target="node103"/>
+      <edge id="edge106" length="0.08091813307154924" source="node103" target="node105"/>
+      <edge id="edge108" length="0.002090840949188298" source="node105" target="node107"/>
+      <edge id="edge110" length="0.029625838127591904" source="node107" target="node109"/>
+      <edge id="edge112" length="0.013721315133787885" source="node107" target="node111"/>
+      <edge id="edge114" length="0.09888238582370257" source="node107" target="node113"/>
+      <edge id="edge116" length="0.07976078237080467" source="node105" target="node115"/>
+      <edge id="edge118" length="0.01781277821676549" source="node103" target="node117"/>
+      <edge id="edge120" length="0.020215619638610596" source="node117" target="node119"/>
+      <edge id="edge122" length="0.03816147161234184" source="node119" target="node121"/>
+      <edge id="edge124" length="0.00938610405881087" source="node119" target="node123"/>
+      <edge id="edge126" length="0.07936138401683429" source="node123" target="node125"/>
+      <edge id="edge128" length="0.013781051605217576" source="node123" target="node127"/>
+      <edge id="edge130" length="0.01925330706729467" source="node127" target="node129"/>
+      <edge id="edge132" length="0.02495714229839907" source="node127" target="node131"/>
+      <edge id="edge134" length="0.01801699714830423" source="node117" target="node133"/>
+      <edge id="edge136" length="0.0015651176611192398" source="node133" target="node135"/>
+      <edge id="edge138" length="0.049290680172654484" source="node135" target="node137"/>
+      <edge id="edge140" length="0.04179586565745458" source="node135" target="node139"/>
+      <edge id="edge142" length="0.0017527783970659988" source="node133" target="node141"/>
+      <edge id="edge144" length="0.13870633159719328" source="node141" target="node143"/>
+      <edge id="edge146" length="0.1775540128682883" source="node141" target="node145"/>
+    </tree>
+  </trees>
+</nex:nexml>
